@@ -16,5 +16,5 @@ To use this panel in your project:
 2. Import the `settings-panel` component.
 3. Link your game state to the checkbox listeners.
 
-## 📝 License
+##  License
 Distributed under the MIT License.
