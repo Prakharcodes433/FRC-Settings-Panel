@@ -3,7 +3,6 @@
 A lightweight, visually appealing Game Settings UI component designed for seamless integration into web-based games or FRC dashboards.
 
 ##  Preview
-![Game Settings Panel](./path-to-your-image/Screenshot.png)
 
 ## ✨ Features
 * **Toggle Options:** Easily enable or disable Sound Effects and Background Music.
