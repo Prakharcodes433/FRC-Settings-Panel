@@ -4,7 +4,7 @@ A lightweight, visually appealing Game Settings UI component designed for seamle
 
 ##  Preview
 
-## ✨ Features
+## Features
 * **Toggle Options:** Easily enable or disable Sound Effects and Background Music.
 * **Game Modes:** Integrated "Hard Mode" switch for difficulty adjustments.
 * **Haptic Support:** Toggle for vibration/haptic feedback on supported devices.
