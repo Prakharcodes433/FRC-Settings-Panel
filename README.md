@@ -10,7 +10,7 @@ A lightweight, visually appealing Game Settings UI component designed for seamle
 * **Haptic Support:** Toggle for vibration/haptic feedback on supported devices.
 * **Clean UI:** Soft shadows and rounded corners for a modern aesthetic.
 
-## 🛠️ Usage
+## Usage
 To use this panel in your project:
 1. Clone the repository.
 2. Import the `settings-panel` component.
